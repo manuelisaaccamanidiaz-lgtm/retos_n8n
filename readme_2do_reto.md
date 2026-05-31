@@ -2,7 +2,9 @@
 
 **Asignatura:** Reto Práctico de Automatización
 
-**Integrantes:** Estudiantes de Tecnología
+**Integrantes:** 
+* Manuel Isaac Camaño Diaz
+* Oscar Abel Bonilla Garcia
 
 **Fecha:** Mayo 2026
 
